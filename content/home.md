@@ -1,7 +1,6 @@
 ---
 title: Digital Portfolio
 description: Teacher Librarian Resource Center and Portfolio
-draft: true
 ---
 
 # Introduction
