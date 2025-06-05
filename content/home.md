@@ -1,5 +1,5 @@
 ---
-title: Digital Portfolio
+title: Home
 description: Teacher Librarian Resource Center and Portfolio
 ---
 
