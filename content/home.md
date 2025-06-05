@@ -1,13 +1,12 @@
 ---
-title: Home
+title: Introduction
 description: Teacher Librarian Resource Center and Portfolio
 ---
-
-# Introduction
+![[Resources/JDIntroComic.png|+tape -small]]
 
 |                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="Resources/JDIntroComic.png" alt="Intro Comic" class="align-right" width="300"></img> | I'm Jon Derpak, a Teacher Librarian in training currently at Queens University. I have been teaching 9 years and have taught many subjects including: Earth Science, Geology , Math, French, Robotics, Engineering and Computer Science. I currently teach at the grade 9 and 10 level and will be teaching grade 11 next year as well as my school is transitioning to an 8 to 12 school over the next 3 years. I have 2 kids with my partner and we live in Salmon arm BC. |
+| %% <img src="Resources/JDIntroComic.png" alt="Intro Comic" class="align-right" width="900"> %% | I'm Jon Derpak, a Teacher Librarian in training currently at Queens University. I have been teaching 9 years and have taught many subjects including: Earth Science, Geology , Math, French, Robotics, Engineering and Computer Science. I currently teach at the grade 9 and 10 level and will be teaching grade 11 next year as well as my school is transitioning to an 8 to 12 school over the next 3 years. I have 2 kids with my partner and we live in Salmon arm BC. |
 
 ___
 
