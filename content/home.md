@@ -10,22 +10,19 @@ draft: true
 | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="Resources/JDIntroComic.png" alt="Intro Comic" class="align-right" width="300"></img> | I'm Jon Derpak, a Teacher Librarian in training currently at Queens University. I have been teaching 9 years and have taught many subjects including: Earth Science, Geology , Math, French, Robotics, Engineering and Computer Science. I currently teach at the grade 9 and 10 level and will be teaching grade 11 next year as well as my school is transitioning to an 8 to 12 school over the next 3 years. I have 2 kids with my partner and we live in Salmon arm BC. |
 
-
 ___
 
-<details>
-  <summary><h2 style="display: inline;">Role of a Teacher Librarian</h2></summary>
-  <img src="Resources/2 Module2 Role of a Teacher Librarian.png" class="align-right" width="600">
-</details>
+## [[2 Module2 Role of a Teacher Librarian.png|Role of a Teacher Librarian]]
+Click the title to see an infographic describing the role of a Teacher Librarian in a school.
 
 ## [[Key Resources|Key Resources]]
+Click the title to see a full list of key resources useful to a Teacher Librarian
 
 
 
+## [[3 Module3 Elevator Pitch.m4a|Elevator Pitch]]
+Click the title to listen to my pitch for the development of a Library Learning Commons at my school
 
-## Elevator Pitch
-[Elevator Pitch for the development of an LLC](Resources/3 Module3 Elevator Pitch.m4a)
+## Mission Statement #TODO
 
-## Mission Statement
-
-## LLC Vision Statement
+## LLC Vision Statement #TODO
