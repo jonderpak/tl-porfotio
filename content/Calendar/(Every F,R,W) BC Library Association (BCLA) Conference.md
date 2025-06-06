@@ -1,8 +1,11 @@
 ---
 title: BC Library Association (BCLA) Conference
-allDay: true
+allDay: false
 type: recurring
-daysOfWeek: [F,R,W]
+daysOfWeek:
+  - F
+  - R
+  - W
 startRecur: 2025-05-07
 endRecur: 2025-05-10
 ---
