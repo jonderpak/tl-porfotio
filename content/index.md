@@ -15,10 +15,11 @@ Click the title to see an infographic describing the role of a Teacher Librarian
 ## [[Key Resources|Key Resources]]
 Click the title to see a full list of key resources useful to a Teacher Librarian
 
-
-
 ## [[3 Module3 Elevator Pitch.m4a|Elevator Pitch]]
 Click the title to listen to my pitch for the development of a Library Learning Commons at my school
+
+## [[Resources/Module 6 Culminating task Communicating Professional Learning.mp4|Leading Learning Framework Literature Review]]
+Click on the title to listen to the presentation of [this](https://www.canva.com/design/DAGpD-x7V9s/SdqU05LFP1EzMv1zGz-oMg/view?utm_content=DAGpD-x7V9s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h923dd4b9d7) slide deck
 
 ## Mission Statement #TODO
 
