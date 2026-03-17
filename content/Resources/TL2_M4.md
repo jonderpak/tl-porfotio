@@ -41,7 +41,7 @@ Rationale: Our limits aim to maximize equitable access and support curricular an
 - **Maximize use for recreational and curricular?**  
     Yes, generous limits and renewals for novels/non‑fiction, better GN timelines, and staff flexibility for course sets ensure steady, fair circulation without unnecessary friction. (This is in line with BC policy exemplars emphasizing diverse, inclusive collections in service of learning.)
 
-**Sources referenced**: 
+## Sources referenced: 
 
 Brooks Kirkland, Anita. “Taming the Library Dragon: Mission, Ethics, and Library Routines – Canadian School Libraries Journal.” _Canadian School Libraries Journal_, 1 Mar. 2022,.
 
