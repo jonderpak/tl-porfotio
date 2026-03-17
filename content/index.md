@@ -21,9 +21,11 @@ To foster a welcoming, inclusive, and literacy-rich Library Learning Commons tha
 To create a flexible, student-centered Library Learning Commons that prioritizes agency, reflection, and identity with a dynamic, co-created space where diverse learners are engaged through meaningful choices, collaborative exploration, and future-ready skills. Rooted in equity, relationships, and inclusive design, it will serve as a launchpad for lifelong learning and community impact.
 
 ---
+## [[Resources/TL2_M4|Circulation Policy]]
+Click to view my proposed Circulation Policy for JL Jackson Secondary School.
 
 ## [[2 Module2 Role of a Teacher Librarian.png|Role of a Teacher Librarian]]
-Click t he title to see an infographic describing the role of a Teacher Librarian in a school.
+Click the title to see an infographic describing the role of a Teacher Librarian in a school.
 
 ## [[Key Resources|Key Resources]]
 Click the title to see a full list of key resources useful to a Teacher Librarian
